@@ -12,6 +12,6 @@ How to run the app:
 3. Update the `.env` file with the URI for the companion backend app (google_geocoding_backend)
 4. Run `npm run dev`
 
-This project is designed to run with [google_elevationg_backend](https://github.com/afilabs/google_elevation_backend).
+This project is designed to run with [google_elevation_backend](https://github.com/afilabs/google_elevation_backend).
 
 Please contact afian@afi.io if you have any questions or suggestions. Pull requests are welcome.
